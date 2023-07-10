@@ -191,6 +191,7 @@ footer {
 
 .footer-column {
     width: 50%;
+    /* text-align: left; */
 }
 .social-links a{
     margin-right: 24px;
@@ -207,4 +208,10 @@ textarea {
     background: #FFF;
     border: 0;
     width: 100%;
+}
+.footer-title {
+    color: #181818;
+    
+    font-size: 35px;
+    font-weight: 700;
 }
